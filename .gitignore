@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.qa/
+.env*
+!.env.example
+
+# Ferramentas de IA / agentes e arquivos de trabalho (não fazem parte do app)
+.claude/
+.agents/
+foto mateus/
